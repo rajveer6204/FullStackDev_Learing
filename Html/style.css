@@ -1,3 +1,17 @@
 td{
     border: 2px solid black;
 }
+p{
+    background-color: aqua;
+}
+a{
+    background-color: rgb(201, 230, 9);
+}
+#first{
+ color: aquamarine;
+ background-color: chocolate;
+}
+.using_class{
+    color: blue;
+    background-color: rgb(221, 149, 243);
+}
